@@ -1,0 +1,4 @@
+spring:
+  jackson:
+    deserialization:
+      use-big-decimal-for-floats: true
